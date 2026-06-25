@@ -1,44 +1,42 @@
 <div align="center">
-  <img width="100%" height="200" alt="banner" src="https://github.com/user-attachments/assets/78938721-9075-464f-9685-fcf6300cf8b7" />
-</div>
 
-<div align="center">
-<table border="0" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="75%">
-      <h1><font color="#c77dff">Hi there, I'm Melika</font>&nbsp;
-        <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28"/>
-      </h1>
-      <h3 align="center"><font color="#e0aaff">Frontend & UI Developer · Toronto 🍵✨</font></h3>
-      <p align="left">
-        <font color="#c77dff">🎓 &nbsp;Computer Programming diploma @ Georgian College</font><br/>
-        <font color="#c77dff">🎨 &nbsp;Interior Design background @ OCAD University</font><br/>
-        <font color="#c77dff">🌍 &nbsp;Based in Toronto, Canada</font><br/>
-        <font color="#c77dff">💻 &nbsp;Turning ideas into code — one bug at a time</font><br/>
-        <font color="#c77dff">🌱 &nbsp;Learning: HTML · CSS · JavaScript · React · Java</font><br/>
-        <font color="#c77dff">👥 &nbsp;Open to co-op & frontend dev opportunities</font><br/>
-        <font color="#c77dff">💬 &nbsp;Ask me about debugging or tea recommendations</font>
-      </p>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/melika-kashef-a30227292/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>&nbsp;
-        <a href="https://www.github.com/MelikaCodes">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>&nbsp;
-        <a href="https://www.instagram.com/melikakashef.designtech/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>&nbsp;
-        <a href="mailto:milakashef@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td align="center" valign="middle" width="25%">
-      <img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="160" alt="cat" />
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="120" alt="cat" />
+
+<h1><font color="#c77dff">Hi there, I'm Melika</font>&nbsp;
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height="28"/>
+</h1>
+
+<h3><font color="#e0aaff">Frontend & UI Developer · Toronto 🍵✨</font></h3>
+
+<br/>
+
+<p>
+  <font color="#c77dff">🎓 &nbsp;Computer Programming diploma @ Georgian College</font><br/>
+  <font color="#c77dff">🎨 &nbsp;Interior Design background @ OCAD University</font><br/>
+  <font color="#c77dff">🌍 &nbsp;Based in Toronto, Canada</font><br/>
+  <font color="#c77dff">💻 &nbsp;Turning ideas into code — one bug at a time</font><br/>
+  <font color="#c77dff">🌱 &nbsp;Learning: HTML · CSS · JavaScript · React · Java</font><br/>
+  <font color="#c77dff">👥 &nbsp;Open to co-op & frontend dev opportunities</font><br/>
+  <font color="#c77dff">💬 &nbsp;Ask me about debugging or tea recommendations</font>
+</p>
+
+<br/>
+
+<p>
+  <a href="https://www.linkedin.com/in/melika-kashef-a30227292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.github.com/MelikaCodes">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/melikakashef.designtech/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:milakashef@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
 ---
