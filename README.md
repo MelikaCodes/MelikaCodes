@@ -38,19 +38,6 @@
 </table>
 </div>
 
----
-
-<h2 align="center"><font color="#c77dff">📊 GitHub Stats</font></h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MelikaCodes&background=00000000&hide_border=true&stroke=c77dff&ring=c77dff&fire=e0aaff&currStreakLabel=c77dff&sideLabels=c77dff&dates=c77dff&sideNums=c77dff&currStreakNum=c77dff" width="60%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MelikaCodes&bg_color=00000000&color=9d4edd&line=c77dff&point=7b2d8b&hide_border=true" width="60%" />
-
-</div>
 
 ---
 
