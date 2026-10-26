@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/sage-banner.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building, learning, and exploring health technology." />
+<img src="./assets/sage-banner.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
 
-<img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="80" alt="Cat illustration" />
+<img src="./assets/sage-typing-cat.svg" width="140" alt="A little cat typing on a sage green laptop" />
 
 **A little code, a little curiosity, and room to grow 🌱**
 
@@ -18,7 +18,7 @@
 
 I'm studying Computer Programming at Georgian College and building applications with C#, ASP.NET Core MVC, JavaScript and SQL. My OCAD design background helps me think about clear layouts and easy-to-use interfaces.
 
-I enjoy learning by building, debugging and working through problems with a team. I'm also exploring bioinformatics and health technology, and learning how programming can support healthcare.
+I enjoy learning by building, debugging and working through problems with a team.
 
 <p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
 
@@ -51,13 +51,13 @@ Create a space adventure by choosing story elements, generating a random story a
 
 ## What I'm learning
 
-C++, JavaScript frameworks and systems analysis through my current coursework, alongside an exploration of bioinformatics and healthcare applications.
+C++, JavaScript frameworks and systems analysis through my current coursework.
 
 <p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
 
 ## Let's connect
 
-I'm looking for a Winter 2027 co-op where I can contribute to a real application, ask good questions and learn from an experienced team. I'm also interested in hearing from people working in health technology and bioinformatics.
+I'm looking for a Winter 2027 co-op where I can contribute to a real application, ask good questions and learn from an experienced team.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/melika-kashef-a30227292/) or [send me an email](mailto:milakashef@gmail.com).
 
