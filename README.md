@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/software-banner.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
+<img src="./assets/software-banner-v2.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
 
-<img src="./assets/sage-typing-cat.svg" width="140" alt="A little cat typing on a sage green laptop" />
+<img src="./assets/chonky-typing-cat.svg" width="170" alt="A very round, goofy cat typing on a little sage green laptop" />
 
 **A little code, a little curiosity, and room to grow 🌱**
 
