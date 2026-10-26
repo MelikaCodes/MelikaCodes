@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="100" alt="Cat illustration" />
 
-# Hi, I'm Melika 🌸
+# Hi, I'm Melika 🌱
 
 **Computer Programming student · C# & ASP.NET Core · JavaScript & Web Development**
 
