@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="280" viewBox="0 0 360 280" role="img" aria-labelledby="title desc">
+<title id="title">A very round little cat enthusiastically typing</title>
+<desc id="desc">A chubby oatmeal-colored cat with tiny ears, squishy cheeks and its tongue poking out, typing on a small sage laptop. Its paws alternate and its tail wiggles.</desc>
+<ellipse cx="180" cy="253" rx="128" ry="10" fill="#b9c9aa" opacity=".25"/>
+<g stroke="#676051" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<path d="M270 227C327 244 338 190 312 180C297 175 290 193 306 197" fill="none" stroke="#b6aa90" stroke-width="19"><animateTransform attributeName="transform" type="rotate" values="-4 274 228;5 274 228;-4 274 228" dur="1.9s" repeatCount="indefinite"/></path>
+<path d="M76 130C53 162 48 216 79 242C111 264 246 264 279 241C307 217 299 165 278 131Z" fill="#cfc2a7"/>
+<ellipse cx="179" cy="212" rx="79" ry="41" fill="#e7dec9" stroke="none"/>
+<ellipse cx="93" cy="244" rx="23" ry="10" fill="#d9cdb4"/>
+<ellipse cx="267" cy="244" rx="23" ry="10" fill="#d9cdb4"/>
+<g>
+<animateTransform attributeName="transform" type="rotate" values="-1 180 145;1 180 145;-1 180 145" dur="1.4s" repeatCount="indefinite"/>
+<path d="M88 69L94 30Q96 23 102 29L133 49Q179 36 227 49L254 29Q263 22 264 34L272 73C293 95 296 137 275 160C253 186 107 190 80 160C57 135 65 92 88 69Z" fill="#ded2b8"/>
+<path d="M100 42L102 67L122 54Z" fill="#b4c4a5" stroke="none"/>
+<path d="M253 43L237 55L258 68Z" fill="#b4c4a5" stroke="none"/>
+<path d="M159 44L162 62M179 42L179 61M199 44L196 62" fill="none" stroke="#b4a58a"/>
+<ellipse cx="105" cy="131" rx="20" ry="12" fill="#c4cfb4" stroke="none" opacity=".75"/>
+<ellipse cx="254" cy="131" rx="20" ry="12" fill="#c4cfb4" stroke="none" opacity=".75"/>
+<path d="M122 102Q133 110 144 102M217 104Q227 111 237 102" fill="none" stroke-width="4.5"/>
+<path d="M174 116Q180 111 186 116L180 122Z" fill="#92846d" stroke-width="2"/>
+<path d="M180 123Q168 137 159 127M180 123Q192 137 201 127" fill="none" stroke-width="3"/>
+<path d="M178 131Q183 130 187 131L187 141Q181 149 177 141Z" fill="#c4a18d" stroke-width="2.5"/>
+<path d="M84 120L61 115M82 132L56 134M277 120L300 115M279 132L304 135" fill="none" stroke-width="2.5"/>
+</g>
+<g><ellipse cx="132" cy="186" rx="22" ry="15" fill="#e5d9bf"/><path d="M126 185V191M134 185V191" stroke-width="2"/><animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur=".38s" repeatCount="indefinite"/></g>
+<g><ellipse cx="229" cy="186" rx="22" ry="15" fill="#e5d9bf"/><path d="M223 185V191M231 185V191" stroke-width="2"/><animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 8" dur=".38s" repeatCount="indefinite"/></g>
+<rect x="102" y="191" width="158" height="60" rx="7" fill="#a8bd99"/>
+<path d="M93 252H269" stroke-width="6"/>
+<path d="M176 231C166 219 173 209 187 210C193 221 186 229 176 231Z" fill="#edf0e4" stroke="none"/>
+<path d="M174 235L186 215" stroke="#6e8563" stroke-width="2"/>
+</g>
+<g fill="none" stroke="#91a47f" stroke-width="3" stroke-linecap="round">
+<path d="M43 156L34 149M42 170H30"><animate attributeName="opacity" values=".2;1;.2" dur=".6s" repeatCount="indefinite"/></path>
+<path d="M316 151L326 145M319 164H332"><animate attributeName="opacity" values="1;.2;1" dur=".6s" repeatCount="indefinite"/></path>
+</g>
+</svg>
