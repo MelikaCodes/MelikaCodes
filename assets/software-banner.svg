@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Hi, I'm Melika — software and web development</title>
+<desc id="desc">A warm cream banner with sage botanical line art, introducing Melika and her interest in thoughtful software.</desc>
+<rect width="1200" height="280" rx="20" fill="#f7f5ed"/>
+<rect x="1" y="1" width="1198" height="278" rx="19" fill="none" stroke="#d5decd" stroke-width="2"/>
+<circle cx="1080" cy="40" r="205" fill="#e5ecde"/>
+<circle cx="1145" cy="250" r="112" fill="#d3dfc9" opacity=".7"/>
+<path d="M58 57H122" stroke="#7a967b" stroke-width="3" stroke-linecap="round"/>
+<text x="58" y="91" fill="#60785f" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4">SOFTWARE &amp; WEB DEVELOPMENT</text>
+<text x="55" y="160" fill="#304a38" font-family="Georgia, 'Times New Roman', serif" font-size="62">Hi, I'm Melika</text>
+<text x="59" y="205" fill="#566453" font-family="Arial, Helvetica, sans-serif" font-size="21">Computer Programming student · Toronto</text>
+<text x="59" y="243" fill="#6a7b63" font-family="Arial, Helvetica, sans-serif" font-size="16">Building thoughtful software and web experiences.</text>
+<g fill="none" stroke="#728d70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M985 225C1000 183 1022 146 1052 93"/>
+<path d="M1004 181C974 181 959 164 963 143C990 145 1004 158 1004 181Z" fill="#ccd9c0"/>
+<path d="M1020 154C1053 153 1068 133 1061 114C1034 118 1020 131 1020 154Z" fill="#b9cdb0"/>
+<path d="M1038 120C1010 116 999 99 1005 80C1031 85 1041 99 1038 120Z" fill="#d5e0cc"/>
+<path d="M1052 94C1075 84 1085 62 1073 47C1051 59 1046 75 1052 94Z" fill="#b5c8aa"/>
+</g>
+<g fill="#94ab87"><circle cx="935" cy="83" r="4"/><circle cx="1100" cy="185" r="4"/><circle cx="955" cy="217" r="3"/></g>
+</svg>
