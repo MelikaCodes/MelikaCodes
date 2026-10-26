@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="100" alt="Cat illustration" />
+<img src="./assets/sage-banner.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building, learning, and exploring health technology." />
 
-# Hi, I'm Melika 🌱
+<img src="https://github.com/user-attachments/assets/c4124019-adad-41f5-bb1e-8e3a85d35282" width="80" alt="Cat illustration" />
+
+**A little code, a little curiosity, and room to grow 🌱**
 
 **Computer Programming student · C# & ASP.NET Core · JavaScript & Web Development**
 
@@ -17,6 +19,8 @@
 I'm studying Computer Programming at Georgian College and building applications with C#, ASP.NET Core MVC, JavaScript and SQL. My OCAD design background helps me think about clear layouts and easy-to-use interfaces.
 
 I enjoy learning by building, debugging and working through problems with a team. I'm also exploring bioinformatics and health technology, and learning how programming can support healthcare.
+
+<p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
 
 ## Selected projects
 
@@ -34,6 +38,8 @@ Create a space adventure by choosing story elements, generating a random story a
 
 [Try the live demo](https://melikacodes.github.io/26S-Client-Side-JavaScript---01/comp1073-main/assignment1/) · [Read the project guide and code](https://github.com/MelikaCodes/26S-Client-Side-JavaScript---01/tree/main/comp1073-main/assignment1)
 
+<p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
+
 ## Skills I'm using
 
 - **Application development:** C#, ASP.NET Core MVC, Java, JavaScript
@@ -41,9 +47,13 @@ Create a space adventure by choosing story elements, generating a random story a
 - **Data:** SQL, SQLite
 - **Collaboration:** Git, GitHub branches and pull requests
 
+<p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
+
 ## What I'm learning
 
 C++, JavaScript frameworks and systems analysis through my current coursework, alongside an exploration of bioinformatics and healthcare applications.
+
+<p align="center"><img src="./assets/sage-divider.svg" width="100%" alt="" /></p>
 
 ## Let's connect
 
