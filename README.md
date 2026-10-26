@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/sage-banner.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
+<img src="./assets/sage-banner.svg?v=software" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
 
 <img src="./assets/sage-typing-cat.svg" width="140" alt="A little cat typing on a sage green laptop" />
 
