@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" aria-labelledby="title desc">
+<title id="title">A little cat typing on a sage laptop</title>
+<desc id="desc">A warm beige cat with alternating typing paws, a gently moving tail and a sage green laptop. The background is transparent.</desc>
+<ellipse cx="163" cy="221" rx="115" ry="8" fill="#cbd6c2" opacity=".35"/>
+<g stroke="#625d50" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+<path d="M231 206C281 210 286 166 267 155C251 145 249 169 265 168" fill="none" stroke="#9b9580" stroke-width="15">
+<animateTransform attributeName="transform" type="rotate" values="-2 236 204;3 236 204;-2 236 204" dur="2.4s" repeatCount="indefinite"/>
+</path>
+<path d="M104 139C88 160 90 207 117 216H221C243 201 236 164 220 141Z" fill="#cfc5af"/>
+<path d="M108 61L109 22L146 47C161 43 179 43 194 48L227 25L224 68C240 91 236 125 219 142C190 162 139 161 113 141C92 124 91 86 108 61Z" fill="#dcd2bd"/>
+<path d="M117 37L119 62L137 51Z" fill="#b5c3a5" stroke="none"/>
+<path d="M215 40L199 54L217 64Z" fill="#b5c3a5" stroke="none"/>
+<path d="M149 48L151 62M165 46L165 61M180 48L178 62" fill="none" stroke="#a99e87"/>
+<ellipse cx="136" cy="91" rx="4" ry="5" fill="#625d50" stroke="none"><animate attributeName="ry" values="5;5;.5;5;5" keyTimes="0;.43;.46;.49;1" dur="4.8s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="194" cy="91" rx="4" ry="5" fill="#625d50" stroke="none"><animate attributeName="ry" values="5;5;.5;5;5" keyTimes="0;.43;.46;.49;1" dur="4.8s" repeatCount="indefinite"/></ellipse>
+<path d="M161 100L168 100L164 105Z" fill="#8d8975" stroke-width="2"/>
+<path d="M164 106Q157 116 152 109M164 106Q171 116 176 109" fill="none" stroke-width="2.5"/>
+<path d="M113 101L91 97M112 111L90 114M217 101L239 97M218 111L240 114" fill="none" stroke-width="2.5"/>
+<g><ellipse cx="129" cy="150" rx="17" ry="12" fill="#ded5c1"/><path d="M125 148V154M132 148V154" stroke-width="2"/><animateTransform attributeName="transform" type="translate" values="0 0;0 6;0 0" dur=".48s" repeatCount="indefinite"/></g>
+<g><ellipse cx="202" cy="150" rx="17" ry="12" fill="#ded5c1"/><path d="M198 148V154M205 148V154" stroke-width="2"/><animateTransform attributeName="transform" type="translate" values="0 6;0 0;0 6" dur=".48s" repeatCount="indefinite"/></g>
+<rect x="87" y="156" width="154" height="65" rx="6" fill="#a8bd9b"/>
+<path d="M79 221H249" fill="none" stroke="#625d50" stroke-width="5"/>
+<path d="M161 196C154 185 158 178 169 177C174 185 171 193 161 196Z" fill="#edf1e7" stroke="none"/>
+<path d="M159 199L169 183" fill="none" stroke="#728968" stroke-width="2"/>
+</g>
+</svg>
