@@ -2,7 +2,7 @@
 
 <img src="./assets/software-banner-v2.svg" width="100%" alt="Hi, I’m Melika — Computer Programming student in Toronto, building thoughtful software and web experiences." />
 
-<img src="./assets/chonky-typing-cat.svg" width="170" alt="A very round, goofy cat typing on a little sage green laptop" />
+<img src="./assets/original-cat-green-laptop.gif" width="110" alt="Original animated typing cat with a sage green laptop" />
 
 **A little code, a little curiosity, and room to grow 🌱**
 
